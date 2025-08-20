@@ -22,3 +22,9 @@ cd Asteroids_Pygame
 ```
 pip install pygame
 ```
+
+## 🎮 How to Play
+
+- **Move**: Use `w` `s` `a` `d` keys to navigate.
+- **Shoot**: Press 'Space' to fire.
+- **Restart**: After game over, press 'Space' to play again.
