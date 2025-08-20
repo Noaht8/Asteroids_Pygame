@@ -37,5 +37,11 @@ pip install pygame
 - `shot.py` - Manages bullet mechanics.  
 - `constants.py` - Stores game constants like screen dimensions and speeds.  
 - `asteroidfield.py` - Handles asteroid field generation and management.  
-- `circleshape.py` - Utility for circular shapes and collisions.  
+- `circleshape.py` - Utility for circular shapes and collisions.
+
+## 📸 Screenshots
+![Asteroids Gameplay]()
+
+## 📄 License
+This project is licensed under the MIT License
 
