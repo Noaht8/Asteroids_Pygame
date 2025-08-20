@@ -28,3 +28,14 @@ pip install pygame
 - **Move**: Use `w` `s` `a` `d` keys to navigate.
 - **Shoot**: Press 'Space' to fire.
 - **Restart**: After game over, press 'Space' to play again.
+
+## 📁 Project Structure
+
+- `main.py` - Entry point; initializes and runs the game loop.  
+- `player.py` - Defines the player's spaceship and its behaviors.  
+- `asteroid.py` - Contains asteroid class and logic.  
+- `shot.py` - Manages bullet mechanics.  
+- `constants.py` - Stores game constants like screen dimensions and speeds.  
+- `asteroidfield.py` - Handles asteroid field generation and management.  
+- `circleshape.py` - Utility for circular shapes and collisions.  
+
