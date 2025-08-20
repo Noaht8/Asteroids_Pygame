@@ -40,7 +40,7 @@ pip install pygame
 - `circleshape.py` - Utility for circular shapes and collisions.
 
 ## 📸 Screenshots
-![Asteroids Gameplay]()
+![](Asteroid_Gameplay.png)
 
 ## 📄 License
 This project is licensed under the MIT License
