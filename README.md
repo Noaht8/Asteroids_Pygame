@@ -14,4 +14,11 @@ A classic arcade-style space shooter game built using Python and Pygame.
 ```
 git clone https://github.com/Noaht8/Asteroids_Pygame.git
 ```
-
+2. Navigate to the project directory:
+```
+cd Asteroids_Pygame
+```
+3. Install dependencies:
+```
+pip install pygame
+```
